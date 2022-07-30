@@ -10,5 +10,6 @@
 		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
 	},
 	"author": "Nikola Hristov <nikola@playform.cloud>",
-	"license": "SEE LICENSE IN LICENSE"
+	"license": "SEE LICENSE IN LICENSE",
+	"keywords": []
 }
