@@ -9,7 +9,6 @@
 	"bugs": {
 		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
 	},
-	"author": "nikolarhristov",
-	"license": "MIT",
-	"keywords": []
+	"author": "crepesjs",
+	"license": "MIT"
 }
