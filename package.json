@@ -9,5 +9,8 @@
 	"bugs": {
 		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
 	},
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"@lightrix/config": "0.0.5"
+	}
 }
