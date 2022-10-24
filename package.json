@@ -11,6 +11,6 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"@lightrix/config": "0.0.5"
+		"@lightrix/config": "0.0.6"
 	}
 }
