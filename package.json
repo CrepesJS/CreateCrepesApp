@@ -1,16 +1,16 @@
 {
-	"name": "create-crepes-app",
-	"version": "0.0.1",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/CrepesJS/create-crepes-app.git"
-	},
-	"homepage": "https://github.com/CrepesJS/create-crepes-app#readme",
-	"bugs": {
-		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
-	},
-	"license": "MIT",
-	"devDependencies": {
-		"@lightrix/config": "0.0.6"
-	}
+  "name": "create-crepes-app",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrepesJS/create-crepes-app.git"
+  },
+  "homepage": "https://github.com/CrepesJS/create-crepes-app#readme",
+  "bugs": {
+    "url": "https://github.com/CrepesJS/create-crepes-app/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@lightrix/config": "0.0.6"
+  }
 }
