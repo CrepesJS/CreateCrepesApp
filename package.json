@@ -1,7 +1,6 @@
 {
 	"name": "create-crepes-app",
 	"version": "0.1.1",
-	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/CrepesJS/create-crepes-app.git"
@@ -10,6 +9,7 @@
 	"bugs": {
 		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
 	},
+	"license": "MIT",
 	"private": false,
 	"devDependencies": {
 		"@lightrix/config": "0.0.6"
