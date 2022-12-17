@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"private": false,
 	"devDependencies": {
-		"@lightrix/config": "0.0.6"
+		"@lightrix/config": "0.0.7"
 	},
 	"publishConfig": {
 		"access": "public"
