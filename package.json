@@ -17,6 +17,7 @@
 		"@lightrix/config": "0.0.9"
 	},
 	"publishConfig": {
+		"provenance": true,
 		"access": "public"
 	}
 }
