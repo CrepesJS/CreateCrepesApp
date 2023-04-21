@@ -14,7 +14,7 @@
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"devDependencies": {
-		"@lightrix/config": "0.0.9"
+		"@lightrix/config": "0.0.11"
 	},
 	"publishConfig": {
 		"access": "public"
