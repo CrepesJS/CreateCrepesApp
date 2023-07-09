@@ -1,22 +1,22 @@
 {
+	"bugs": {
+		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
+	},
+	"devDependencies": {
+		"@lightrix/config": "0.0.11"
+	},
+	"homepage": "https://github.com/CrepesJS/create-crepes-app#readme",
+	"license": "MIT",
+	"main": "./dist/index.js",
 	"name": "create-crepes-app",
-	"version": "0.1.1",
+	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/CrepesJS/create-crepes-app.git"
 	},
-	"homepage": "https://github.com/CrepesJS/create-crepes-app#readme",
-	"bugs": {
-		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
-	},
-	"license": "MIT",
-	"private": false,
-	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"devDependencies": {
-		"@lightrix/config": "0.0.11"
-	},
-	"publishConfig": {
-		"access": "public"
-	}
+	"version": "0.1.1"
 }
