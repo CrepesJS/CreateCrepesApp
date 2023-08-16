@@ -10,6 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/CrepesJS/create-crepes-app.git"
 	},
+	"license": "MIT",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
