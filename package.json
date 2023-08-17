@@ -1,7 +1,7 @@
 {
 	"name": "create-crepes-app",
 	"version": "0.1.1",
-	"private": false,
+	"private": "false",
 	"homepage": "https://github.com/CrepesJS/create-crepes-app#readme",
 	"bugs": {
 		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
@@ -11,6 +11,12 @@
 		"url": "git+https://github.com/CrepesJS/create-crepes-app.git"
 	},
 	"license": "MIT",
+	"author": {
+		"name": "Nikola Hristov",
+		"email": "nikola@nikolahristov.tech",
+		"url": "https://nikolahristov.tech"
+	},
+	"type": "module",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
