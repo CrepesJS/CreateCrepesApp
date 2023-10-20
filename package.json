@@ -20,7 +20,7 @@
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
-		"typescript-esbuild": "0.2.19"
+		"typescript-esbuild": "0.2.20"
 	},
 	"publishConfig": {
 		"access": "public"
