@@ -2,19 +2,19 @@
 	"name": "create-crepes-app",
 	"version": "0.1.1",
 	"private": false,
-	"homepage": "https://github.com/CrepesJS/create-crepes-app#readme",
+	"homepage": "HTTPS://GitHub.Com/CrepesJS/create-crepes-app#readme",
 	"bugs": {
-		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
+		"url": "HTTPS://GitHub.Com/CrepesJS/create-crepes-app/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/CrepesJS/create-crepes-app.git"
+		"url": "git+HTTPS://GitHub.Com/CrepesJS/create-crepes-app.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "https://nikolahristov.tech"
+		"url": "HTTPS://NikolaHristov.Tech"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
