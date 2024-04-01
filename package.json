@@ -2,13 +2,13 @@
 	"name": "create-crepes-app",
 	"version": "0.1.1",
 	"private": false,
-	"homepage": "https://GitHub.Com/CrepesJS/create-crepes-app#readme",
+	"homepage": "https://github.com/CrepesJS/create-crepes-app#readme",
 	"bugs": {
-		"url": "https://GitHub.Com/CrepesJS/create-crepes-app/issues"
+		"url": "https://github.com/CrepesJS/create-crepes-app/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://GitHub.Com/CrepesJS/create-crepes-app.git"
+		"url": "git+https://github.com/CrepesJS/create-crepes-app.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
@@ -20,7 +20,7 @@
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
-		"typescript-esbuild": "0.4.9"
+		"@playform/build": "0.0.1"
 	},
 	"publishConfig": {
 		"access": "public"
