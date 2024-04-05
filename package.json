@@ -20,11 +20,7 @@
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
-<<<<<<< HEAD
 		"@playform/build": "0.0.5"
-=======
-		"@playform/build": "0.0.4"
->>>>>>> 9e6c9c73bb45af99f14ae65b2489a861f88d286f
 	},
 	"publishConfig": {
 		"access": "public"
