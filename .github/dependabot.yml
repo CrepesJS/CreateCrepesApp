@@ -15,4 +15,7 @@ updates:
       ignore:
           - dependency-name: "tailwindcss"
             versions:
+                - "^4.0.0"      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
                 - "^4.0.0"
