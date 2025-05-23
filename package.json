@@ -2,9 +2,9 @@
 	"name": "create-crepes-app",
 	"version": "0.1.1",
 	"private": false,
-	"homepage": "HTTPS://GitHub.Com/CrepesJS/create-crepes-app#readme",
+	"homepage": "https://GitHub.Com/CrepesJS/create-crepes-app#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/CrepesJS/create-crepes-app/issues"
+		"url": "https://GitHub.Com/CrepesJS/create-crepes-app/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
